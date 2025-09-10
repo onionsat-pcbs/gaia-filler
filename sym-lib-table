@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "gaia-filler-symbols")(type "KiCad")(uri "${KIPRJMOD}/gaia-filler-symbols.kicad_sym")(options "")(descr ""))
+)
